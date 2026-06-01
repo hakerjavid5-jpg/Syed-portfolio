@@ -4,46 +4,46 @@ import { useRef, useState, useEffect } from 'react'
 
 const row1Projects = [
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/404/b7c283228571099.Y3JvcCw1NzUzLDQ1MDAsMTEyNSww.png',
+    src: '/images/projects/thumbnails/thumb-01.png',
     name: 'LogoFolio 2025',
   },
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/404/b7059a187992009.Y3JvcCw5MDI1LDcwNTksMCw3Mzc.jpg',
+    src: '/images/projects/thumbnails/thumb-02.jpg',
     name: 'Portfolio 2024',
   },
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/404/b3eab5114100757.Y3JvcCwyNTUwLDE5OTQsMCwyNzE.jpg',
+    src: '/images/projects/thumbnails/thumb-03.jpg',
     name: 'Poster Effects',
   },
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/404/07519c113687701.Y3JvcCwxNzU4LDEzNzUsMTY3MSww.jpg',
+    src: '/images/projects/thumbnails/thumb-04.jpg',
     name: 'Popup Ads',
   },
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/404/15c5ef113089897.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg',
+    src: '/images/projects/thumbnails/thumb-05.jpg',
     name: "Happy Valentin's Cards",
   },
 ]
 
 const row2Projects = [
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/max_808/1e93a2180848345.Y3JvcCwyNzYxLDIxNjAsNTEyLDA.jpg',
+    src: '/images/projects/thumbnails/thumb-06.jpg',
     name: 'Naughty Valentine Stickers',
   },
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/404/3061e9112834789.Y3JvcCwxMzUwLDEwNTYsMTUxNyw3OTI.jpg',
+    src: '/images/projects/thumbnails/thumb-07.jpg',
     name: 'Geometric Elements',
   },
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/404/8988a2112776265.Y3JvcCwzMjYxLDI1NTEsNDY4LDA.jpg',
+    src: '/images/projects/thumbnails/thumb-08.jpg',
     name: 'Instagram Post Templates',
   },
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/404/93e261112597251.Y3JvcCw0MjIwLDMzMDAsNDM4LDA.jpg',
+    src: '/images/projects/thumbnails/thumb-09.jpg',
     name: 'Avengers Keychain Design',
   },
   {
-    src: 'https://mir-s3-cdn-cf.behance.net/projects/404/c4282d105635283.5f7d84ffa88a5.png',
+    src: '/images/projects/thumbnails/thumb-10.png',
     name: 'Ball Z VPN',
   },
 ]
