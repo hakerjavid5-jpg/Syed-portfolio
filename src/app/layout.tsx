@@ -13,7 +13,11 @@ export const metadata: Metadata = {
   title: "Syed Musthaak -- Senior Graphic Designer & Brand Specialist",
   description: "Senior Graphic Designer & Brand Specialist with 8+ years of experience in branding, print media, social media, UI/UX, AI video editing, and photography.",
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: [
+      { url: "/favicon.ico", sizes: "32x32" },
+      { url: "/favicon.png", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
   },
 };
 
